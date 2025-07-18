@@ -1,4 +1,4 @@
-# 🏡 Housing Price Prediction Model
+# Housing Price Prediction Model
 
 This project is a **Housing Price Prediction System** using a machine learning regression model. It takes house-related features and predicts the price of a house using a trained ML model saved as `housing_model.joblib`.
 
